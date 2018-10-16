@@ -4,11 +4,11 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import algorithm.fsm.FiniteStateMachine;
-import algorithm.fsm.RtFiniteStateMachine;
-import algorithm.fsm.RtState;
-import algorithm.fsm.RtTransition;
-import algorithm.fsm.State;
+import algorithms.fsm.FiniteStateMachine;
+import algorithms.fsm.RtFiniteStateMachine;
+import algorithms.fsm.RtState;
+import algorithms.fsm.RtTransition;
+import algorithms.fsm.State;
 
 public class RtFiniteStateMachineLongRunningUnitTest {
 

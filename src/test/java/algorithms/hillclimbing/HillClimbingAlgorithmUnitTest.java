@@ -11,8 +11,8 @@ import java.util.Stack;
 import org.junit.Before;
 import org.junit.Test;
 
-import algorithm.hillclimbing.HillClimbing;
-import algorithm.hillclimbing.State;
+import algorithms.hillclimbing.HillClimbing;
+import algorithms.hillclimbing.State;
 
 public class HillClimbingAlgorithmUnitTest {
 

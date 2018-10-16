@@ -8,12 +8,12 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import algorithm.mcts.montecarlo.MonteCarloTreeSearch;
-import algorithm.mcts.montecarlo.State;
-import algorithm.mcts.montecarlo.UCT;
-import algorithm.mcts.tictactoe.Board;
-import algorithm.mcts.tictactoe.Position;
-import algorithm.mcts.tree.Tree;
+import algorithms.mcts.montecarlo.MonteCarloTreeSearch;
+import algorithms.mcts.montecarlo.State;
+import algorithms.mcts.montecarlo.UCT;
+import algorithms.mcts.tictactoe.Board;
+import algorithms.mcts.tictactoe.Position;
+import algorithms.mcts.tree.Tree;
 
 public class MCTSUnitTest {
 

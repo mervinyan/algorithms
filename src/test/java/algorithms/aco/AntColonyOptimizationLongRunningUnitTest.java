@@ -3,7 +3,7 @@ package algorithms.aco;
 import org.junit.Assert;
 import org.junit.Test;
 
-import algorithm.aco.AntColonyOptimization;
+import algorithms.aco.AntColonyOptimization;
 
 public class AntColonyOptimizationLongRunningUnitTest {
 

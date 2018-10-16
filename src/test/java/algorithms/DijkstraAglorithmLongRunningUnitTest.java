@@ -7,9 +7,9 @@ import java.util.List;
 
 import org.junit.Test;
 
-import algorithm.dijkstra.Dijkstra;
-import algorithm.dijkstra.Graph;
-import algorithm.dijkstra.Node;
+import algorithms.dijkstra.Dijkstra;
+import algorithms.dijkstra.Graph;
+import algorithms.dijkstra.Node;
 
 public class DijkstraAglorithmLongRunningUnitTest {
 
