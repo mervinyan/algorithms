@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.dijkstra;
 
 import static org.junit.Assert.*;
 
